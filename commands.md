@@ -9,3 +9,7 @@
 2b. gh repo create -- and follow the promps
       choose 'push an existing local repo to GH'
       add a remote: default = origin
+
+3. if you fucked up: change remote URL.
+
+git remote set-url git@github.com:Fil-good/Pics.git
