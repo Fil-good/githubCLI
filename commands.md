@@ -12,3 +12,7 @@
 3. change remote URL.
 git remote set-url git@github.com:Fil-good/Pics.git
 check if all good: git remote -v
+
+4. combine git add && git commit
+4a. git config --global alias.add-commit '!git add -A && git commit'
+4b. git add-commit -m 'My commit message'
