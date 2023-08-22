@@ -16,3 +16,7 @@ check if all good: git remote -v
 4. combine git add && git commit
 4a. git config --global alias.add-commit '!git add -A && git commit'
 4b. git add-commit -m 'My commit message'
+
+5. clone a repo into local
+> gh repo clone <repo name>
+> gh repo clone <URL repo>
