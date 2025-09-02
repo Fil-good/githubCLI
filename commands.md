@@ -21,6 +21,8 @@ check if all good: git remote -v
 5a. $ gh repo clone <repo name> -- or 5b.
 5b. $ gh repo clone <URL repo>
 
+5c. $ git clone https://github.com/CryptoWizardsNet/stat-arb-bybit.git statarb
+
 6. get remote latest code
 see https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository
 6a. fetch
