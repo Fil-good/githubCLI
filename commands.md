@@ -30,4 +30,4 @@ $ git fetch REMOTE-NAME
 
 
 General commands:
-77. rm -rf books -- recursive and force, to delete a directory
+7. rm -rf books -- recursive and force, to delete a directory
